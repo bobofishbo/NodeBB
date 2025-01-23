@@ -122,6 +122,8 @@ helpers.buildTerms = function (url, term, query) {
 	}];
 };
 
+
+
 // reduce nested conditionals
 // repeated logic into helper functions to reduce complexity
 
